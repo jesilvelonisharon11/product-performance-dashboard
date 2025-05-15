@@ -19,7 +19,6 @@ The dashboard is designed to help business and sales teams make data-driven deci
 
  **🧠 Actionable Insights**  
   Pinpoint top-selling products, underperformers, and trends that influence business strategy.
-<img width="1176" alt="image" src="https://github.com/user-attachments/assets/979045a3-6a30-4031-8ea0-f9453d6c6ce7" />
+<img width="1177" alt="image" src="https://github.com/user-attachments/assets/480860ff-e219-450d-a7e0-68a5d0342030" />
 
-
-<img width="1177" alt="image" src="https://github.com/user-attachments/assets/bf2c1081-a11f-4ca1-a3d0-dea1a214107b" />
+<img width="1176" alt="image" src="https://github.com/user-attachments/assets/7ee0ebed-b238-4e6c-9ed3-a0f5e186f113" />
